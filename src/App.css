@@ -1,0 +1,56 @@
+.App{
+  text-align: center !important;
+  
+}
+.app >h1{
+
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+li{
+  list-style: none;
+}
+.box >input{
+  height: 20px;
+  width: 170px;
+  margin: 10px;
+}
+.box >button{
+  height: 29px;
+  border: none;
+  width: 120px;
+  background-color: black;
+  color: white;
+}
+.search{
+  margin-bottom: 20px;
+  
+}
+
+.search >input,button{
+  width: 170px;
+  height: 29px;
+}
+.search >button{
+  width: 120px;
+  height: 34px;
+  margin-left: 0px;
+  background-color: black;
+  color: white; 
+}
+.event >button{
+  width: 120px;
+  height: 29px;
+  margin-left: 30px;
+  background-color: black;
+  color: white; 
+}
+.del{
+  margin: 20px;
+}
+.del >button{
+  width: 55px;
+  margin-left: 10px;
+  background-color: black;
+  color: white; 
+}
